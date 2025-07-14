@@ -2,7 +2,7 @@ name: hello_project
 on:
   push:
     branches:
-      - dev
+      - main
 jobs:
   test_job:
     runs-on: ubuntu-latest
