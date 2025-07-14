@@ -11,5 +11,5 @@ jobs:
     - name: Print_hello
     run: |
       echo "Hello World"
-      car README.md
+      cat README.md
     
