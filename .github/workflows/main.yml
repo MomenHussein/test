@@ -11,6 +11,5 @@ jobs:
       - name: Print_hello
         run: |
           echo "Hello World"
-          cd . .
-          cat README.md
+          echo "Please Momen"
     
